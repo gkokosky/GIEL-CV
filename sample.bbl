@@ -1,0 +1,80 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{ydnt/global//global/global}
+    \entry{else:lim.init:2010}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=b9e60c15434c62086182b95eeb54a3b1}{%
+           family={GamersAgainstHeroin},
+           familyi={G\bibinitperiod}}}%
+        {{hash=200feead2302d35f5cd0335584d066a1}{%
+           family={Intven},
+           familyi={I\bibinitperiod},
+           given={Giel},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Diemen}%
+      }
+      \strng{namehash}{cbefa71872ca79cc74db451060dc6528}
+      \strng{fullhash}{cbefa71872ca79cc74db451060dc6528}
+      \strng{bibnamehash}{cbefa71872ca79cc74db451060dc6528}
+      \strng{authorbibnamehash}{cbefa71872ca79cc74db451060dc6528}
+      \strng{authornamehash}{cbefa71872ca79cc74db451060dc6528}
+      \strng{authorfullhash}{cbefa71872ca79cc74db451060dc6528}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Unterricht zum Lebensgluck}
+      \field{year}{2024}
+      \true{nocite}
+    \endentry
+    \entry{lim:else:2010}{book}{}
+      \name{author}{2}{}{%
+        {{hash=7a621e01239c1fe6557cf9c9d2f85bd3}{%
+           family={Newton},
+           familyi={N\bibinitperiod},
+           given={Isaac},
+           giveni={I\bibinitperiod}}}%
+        {{hash=200feead2302d35f5cd0335584d066a1}{%
+           family={Intven},
+           familyi={I\bibinitperiod},
+           given={Giel},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{a2f919e3f112e702f108402ba88ba86a}
+      \strng{fullhash}{a2f919e3f112e702f108402ba88ba86a}
+      \strng{bibnamehash}{a2f919e3f112e702f108402ba88ba86a}
+      \strng{authorbibnamehash}{a2f919e3f112e702f108402ba88ba86a}
+      \strng{authornamehash}{a2f919e3f112e702f108402ba88ba86a}
+      \strng{authorfullhash}{a2f919e3f112e702f108402ba88ba86a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Philosophiæ Naturalis Principia Mathematica}
+      \field{year}{1687}
+      \true{nocite}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
